@@ -1,5 +1,7 @@
 # app-dev
 ### My first repository
+
+![alt text](https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png)
 ## [my-favorite-movies]
  ## 1.pirates of the caribbean
  ## 2.toy story 1
